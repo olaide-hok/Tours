@@ -9,4 +9,4 @@ A Tours App which fetches data from an API and displays the available tour locat
 In order to start this application, follow these steps
 
 1. Install dependencies with `npm install`
-3. Start the project - `npm start`
+2. Start the project - `npm start`
